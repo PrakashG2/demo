@@ -1,0 +1,66 @@
+[1mdiff --git a/...txt b/...txt[m
+[1mdeleted file mode 100644[m
+[1mindex e69de29..0000000[m
+[1mdiff --git a/..txt b/..txt[m
+[1mdeleted file mode 100644[m
+[1mindex e69de29..0000000[m
+[1mdiff --git a/dev1 sample.txt b/dev1 sample.txt[m
+[1mdeleted file mode 100644[m
+[1mindex bb32cea..0000000[m
+[1m--- a/dev1 sample.txt[m	
+[1m+++ /dev/null[m
+[36m@@ -1 +0,0 @@[m
+[31m-sample for dev 1[m
+\ No newline at end of file[m
+[1mdiff --git a/dev2 sample.txt b/dev2 sample.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..fe01d02[m
+[1m--- /dev/null[m
+[1m+++ b/dev2 sample.txt[m	
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mdev 2 sample file[m
+\ No newline at end of file[m
+[1mdiff --git a/diff sample.txt b/diff sample.txt[m
+[1mdeleted file mode 100644[m
+[1mindex e2072ad..0000000[m
+[1m--- a/diff sample.txt[m	
+[1m+++ /dev/null[m
+[36m@@ -1 +0,0 @@[m
+[31m-syhwdfwheyt[m
+\ No newline at end of file[m
+[1mdiff --git a/diff1.txt b/diff1.txt[m
+[1mdeleted file mode 100644[m
+[1mindex 3d7ad3d..0000000[m
+[1m--- a/diff1.txt[m
+[1m+++ /dev/null[m
+[36m@@ -1 +0,0 @@[m
+[31m-.gdffv[m
+\ No newline at end of file[m
+[1mdiff --git a/file 3.txt b/file 3.txt[m
+[1mindex eed7e79..e69de29 100644[m
+[1m--- a/file 3.txt[m	
+[1m+++ b/file 3.txt[m	
+[36m@@ -1 +0,0 @@[m
+[31m-sample[m
+\ No newline at end of file[m
+[1mdiff --git a/new (2).txt b/new (2).txt[m
+[1mdeleted file mode 100644[m
+[1mindex f9f233e..0000000[m
+[1m--- a/new (2).txt[m	
+[1m+++ /dev/null[m
+[36m@@ -1 +0,0 @@[m
+[31m-ghzfsdytasgdf[m
+[1mdiff --git a/new.txt b/new.txt[m
+[1mindex f294285..dc2f3b5 100644[m
+[1m--- a/new.txt[m
+[1m+++ b/new.txt[m
+[36m@@ -1 +1 @@[m
+[31m-this file is for stash[m
+[32m+[m[32mthis file is for new_branch[m
+[1mdiff --git a/test1.txt b/test1.txt[m
+[1mdeleted file mode 100644[m
+[1mindex 9c558e3..0000000[m
+[1m--- a/test1.txt[m
+[1m+++ /dev/null[m
+[36m@@ -1 +0,0 @@[m
+[31m-.[m
